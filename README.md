@@ -23,7 +23,7 @@ EXPOSE 9000:9000
 ENV HTTP="true" \
 	HTTP_LISTEN="0.0.0.0:9000" \
 	HTTPS="false" \
-	API_KEY="something_really_random" \
+        API_KEY="something_really_random" \
 	DELETE_KEY="another_random_string" \
 	MAX_FILE_SIZE=100000000 \
 	SERVER="" \
@@ -52,6 +52,7 @@ edit this lines:
 <pre>
 API_KEY="something_really_random" \
 DELETE_KEY="another_random_string" \
+MAX_FILE_SIZE=100000000 \
 
 </pre>
 ### 3. Save changes
