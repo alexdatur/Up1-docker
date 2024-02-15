@@ -17,8 +17,6 @@ $ cd /opt/Up1-docker/
 $ nano Dockerfile
 ```
 <pre>
-FROM node:latest
-MAINTAINER @alec:secroot.xyz
 
 EXPOSE 9000:9000
 
