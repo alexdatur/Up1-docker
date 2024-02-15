@@ -1,5 +1,5 @@
 ## What is Up1-docker
-Dockerfile for [Up1](https://github.com/Upload/Up1), a client-side encrypted file hosting service
+Dockerfile for [Up1](https://github.com/Upload/Up1), a client-side encrypted anonymous file photo hosting service
 
 ## How to use Up1-docker
 
