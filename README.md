@@ -48,7 +48,7 @@ ENTRYPOINT /srv/Up1/server/entrypoint.sh
 
 </pre>
 
-edit:
+edit this lines:
 <pre>
 API_KEY="something_really_random" \
 DELETE_KEY="another_random_string" \
