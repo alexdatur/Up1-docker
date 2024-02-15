@@ -1,15 +1,14 @@
 FROM node:latest
-MAINTAINER fcremo@users.github.com
+MAINTAINER @alec:secroot.xyz
 
 EXPOSE 9000:9000
 
 ENV HTTP="true" \
 	HTTP_LISTEN="0.0.0.0:9000" \
 	HTTPS="false" \
-	HTTPS_LISTEN=":443" \
 	API_KEY="something_really_random" \
 	DELETE_KEY="another_random_string" \
-	MAX_FILE_SIZE=50000000 \
+	MAX_FILE_SIZE=100000000 \
 	SERVER="" \
 	FOOTER=""
 
