@@ -7,7 +7,7 @@ Dockerfile for [Up1](https://github.com/Upload/Up1), a client-side encrypted ano
 
 ```bash
 $ cd /opt/
-$ git clone https://github.com/ALEXSANPEDRO/Up1-docker.git
+$ git clone https://github.com/alexdatur/Up1-docker.git
 $ cd /opt/Up1-docker/
 ```
 
